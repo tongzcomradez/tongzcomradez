@@ -91,25 +91,10 @@ I believe the future is **multi-agent collaboration**. Meet my 8 specialized AI 
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🕸️ [Tic Tac Toe](https://github.com/tongzcomradez/tic-tac-toe)
-A beautiful, animated Tic Tac Toe game with score tracking and win detection.
-
-### 🤖 [OpenClaw AI Teams](https://github.com/tongzcomradez/clawfy)
-My AI workspace with 8 specialized agent teams.
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iceddripcoffee)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongzcomradez)
 
 </div>
