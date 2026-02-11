@@ -87,6 +87,10 @@ I believe the future is **multi-agent collaboration**. Meet my 8 specialized AI 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tongzcomradez&theme=radical&hide_border=true&background=0D1117">
 
+<br><br>
+
+![Metrics](https://metrics.lecoq.io/tongzcomradez?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&followup=1&followup.sections=repositories&followup.indepth=false&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&repositories=1&repositories.limit=4&repositories.pinned=4&repositories.affiliations=owner&repositories.batch=100&repositories.forks=false&repositories.repositories=%5B%5D&lines=1&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=0&config.timezone=Asia%2FBangkok)
+
 </div>
 
 ---
