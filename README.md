@@ -1,6 +1,6 @@
 <div align="center">
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Joe
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tongz
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Agent+Enthusiast;Gaming+Industry+Developer;8+Specialized+AI+Teams;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://git.io/typing-svg)
   
