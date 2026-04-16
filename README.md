@@ -2,7 +2,7 @@
   
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tongz
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Agent+Enthusiast;Gaming+Industry+Developer;8+Specialized+AI+Teams;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?https://github.com/t10ezfont=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Agent+Enthusiast;Gaming+Industry+Developer;8+Specialized+AI+Teams;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/tongzcomradez?style=for-the-badge&color=00F7FF&labelColor=000000)](https://github.com/tongzcomradez)
-  [![GitHub stars](https://img.shields.io/github/stars/tongzcomradez?style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.comongzcomradez)
-  [![Profile views](https://komarev.com/ghpvc/?username=tongzcomradez&style=for-the-badge&color=brightgreen)](https://github.com/tongzcomradez)
+  [![GitHub followers](https://img.shields.io/github/followers/t10ez?style=for-the-badge&color=00F7FF&labelColor=000000)](https://github.com/t10ez)
+  [![GitHub stars](https://img.shields.io/github/stars/t10ez?style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.comongzcomradez)
+  [![Profile views](https://komarev.com/ghpvc/?username=t10ez&style=for-the-badge&color=brightgreen)](https://github.com/t10ez)
   
 </div>
 
@@ -80,12 +80,12 @@ I believe the future is **multi-agent collaboration**. Meet my 8 specialized AI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tongzcomradez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongzcomradez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=t10ez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tongzcomradez&theme=radical&hide_border=true&background=0D1117">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=t10ez&theme=radical&hide_border=true&background=0D1117">
 
 </div>
 
@@ -95,7 +95,7 @@ I believe the future is **multi-agent collaboration**. Meet my 8 specialized AI 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongzcomradez)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t10ez)
 
 </div>
 
