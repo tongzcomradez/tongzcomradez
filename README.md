@@ -74,11 +74,6 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t10ez&theme=radical" height="180">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t10ez&theme=radical" height="180">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t10ez&theme=radical" height="180">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
 
 <br><br>
