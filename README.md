@@ -50,7 +50,23 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
+
+---
+
+## Featured Project
+
+### 🐾 [pawsos.xyz](https://pawsos.xyz)
+
+Personal product built end-to-end on a serverless stack.
+
+- **Frontend & hosting:** Next.js on **Vercel**
+- **Backend & data:** **Supabase** (Postgres, Auth, Storage, Edge Functions)
+- **Source:** [github.com/t10ez/pawsos](https://github.com/t10ez/pawsos)
+
+[![Live Site](https://img.shields.io/badge/Live-pawsos.xyz-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://pawsos.xyz)
 
 ---
 
@@ -59,6 +75,7 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 | Domain | Focus |
 |--------|-------|
 | 🎮 **Gaming Backend** | Multi-service game platforms — bot engines, trading APIs, web consoles |
+| 🐾 **Product (pawsos.xyz)** | Next.js + Supabase + Vercel — full-stack serverless build |
 | ☸️ **Cloud-Native Infra** | K8s clusters on DigitalOcean / AWS, provisioned with Terraform |
 | 🚀 **GitOps Pipelines** | Declarative deploys via ArgoCD, environment promotion through Git |
 | 🧱 **Local Dev Stacks** | Docker Compose stacks for Mongo / Redis / RabbitMQ parity |
@@ -89,6 +106,7 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pawsos.xyz-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://pawsos.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t10ez)
 
 </div>
