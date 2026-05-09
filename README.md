@@ -48,7 +48,7 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
 
 ---
@@ -69,12 +69,21 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=t10ez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t10ez&theme=radical" width="100%">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=t10ez&theme=radical&hide_border=true&background=0D1117">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t10ez&theme=radical" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t10ez&theme=radical" height="180">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t10ez&theme=radical" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=t10ez&theme=radical&hide_border=true&background=0D1117">
 
 </div>
 
