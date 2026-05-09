@@ -32,31 +32,28 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 ## Core Skills
 
-### Backend & Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000000)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+<div align="center">
 
-### Data & Messaging
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=000000)
+**Backend & Languages**
 
-### Cloud & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
+[![Backend Languages](https://skillicons.dev/icons?i=ts,nodejs,nestjs,rust)](https://skillicons.dev)
+
+**Data & Messaging**
+
+[![Data and Messaging](https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq)](https://skillicons.dev)
+
+**Cloud & Infrastructure**
+
+[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,vercel,supabase,githubactions)](https://skillicons.dev)
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=000000)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
+
+</div>
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🐾 [pawsos.xyz](https://pawsos.xyz)
 
@@ -64,9 +61,16 @@ Personal product built end-to-end on a serverless stack.
 
 - **Frontend & hosting:** Next.js on **Vercel**
 - **Backend & data:** **Supabase** (Postgres, Auth, Storage, Edge Functions)
-- **Source:** [github.com/t10ez/pawsos](https://github.com/t10ez/pawsos)
 
 [![Live Site](https://img.shields.io/badge/Live-pawsos.xyz-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://pawsos.xyz)
+
+### 📦 [@hell-factory/trace-reaper](https://www.npmjs.com/package/@hell-factory/trace-reaper)
+
+OpenTelemetry span decorator for **NestJS**. Instrument methods with one line, get clean traces out of the box.
+
+[![npm version](https://img.shields.io/npm/v/@hell-factory/trace-reaper?style=for-the-badge&logo=npm&logoColor=white&color=CB3837&labelColor=000000)](https://www.npmjs.com/package/@hell-factory/trace-reaper)
+[![npm downloads](https://img.shields.io/npm/dm/@hell-factory/trace-reaper?style=for-the-badge&logo=npm&logoColor=white&color=CB3837&labelColor=000000)](https://www.npmjs.com/package/@hell-factory/trace-reaper)
+[![License](https://img.shields.io/npm/l/@hell-factory/trace-reaper?style=for-the-badge&color=00F7FF&labelColor=000000)](https://www.npmjs.com/package/@hell-factory/trace-reaper)
 
 ---
 
@@ -76,8 +80,9 @@ Personal product built end-to-end on a serverless stack.
 |--------|-------|
 | 🎮 **Gaming Backend** | Multi-service game platforms — bot engines, trading APIs, web consoles |
 | 🐾 **Product (pawsos.xyz)** | Next.js + Supabase + Vercel — full-stack serverless build |
-| ☸️ **Cloud-Native Infra** | K8s clusters on DigitalOcean / AWS, provisioned with Terraform |
-| 🚀 **GitOps Pipelines** | Declarative deploys via ArgoCD, environment promotion through Git |
+| 📦 **OSS Package** | `@hell-factory/trace-reaper` — OpenTelemetry span decorator for NestJS |
+| ☸️ **Cloud-Native Infra** | K8s clusters on DigitalOcean / AWS, Terraform + Ansible provisioning |
+| 🚀 **CI/CD & GitOps** | Jenkins + GitHub Actions pipelines, ArgoCD-driven cluster sync |
 | 🧱 **Local Dev Stacks** | Docker Compose stacks for Mongo / Redis / RabbitMQ parity |
 | 🦀 **Rust** | Working through `rustlings` and systems-level practice |
 
@@ -91,7 +96,7 @@ Personal product built end-to-end on a serverless stack.
 
 <br><br>
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
 
 <br><br>
