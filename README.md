@@ -10,7 +10,8 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/t10ez?style=for-the-badge&color=00F7FF&labelColor=000000)](https://github.com/t10ez)
+[![GitHub followers](https://img.shields.io/github/followers/t10ez?style=for-the-badge&color=00F7FF&labelColor=000000)](https://github.com/t10ez?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft10ez&label=Public%20Repos&query=public_repos&style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.com/t10ez?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=t10ez&style=for-the-badge&color=brightgreen&labelColor=000000)](https://github.com/t10ez)
 
 </div>
@@ -73,7 +74,7 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t10ez&theme=radical" height="180">
+<img src="https://github-readme-stats.hackclub.dev/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
 
 <br><br>
