@@ -63,19 +63,45 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 
 **Backend & Languages**
 
-[![Backend Languages](https://skillicons.dev/icons?i=ts,nodejs,nestjs,bun,elysia,rust)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="48" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" />
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" height="48" />
+<img src="https://skillicons.dev/icons?i=bun" title="Bun" alt="Bun" height="48" />
+<img src="https://skillicons.dev/icons?i=elysia" title="Elysia" alt="Elysia" height="48" />
+<img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" height="48" />
 
 **Data & Messaging**
 
-[![Data and Messaging](https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq,kafka)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" />
+<img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="48" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" height="48" />
+<img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="Kafka" height="48" />
 
 **Cloud, Infra & Observability**
 
-[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,nginx,terraform,ansible,jenkins,aws,cloudflare,vercel,supabase,githubactions,grafana)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" />
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" height="48" />
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" height="48" />
+<img src="https://skillicons.dev/icons?i=terraform" title="Terraform" alt="Terraform" height="48" />
+<img src="https://skillicons.dev/icons?i=ansible" title="Ansible" alt="Ansible" height="48" />
+<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" height="48" />
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="48" />
+<img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" height="48" />
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" height="48" />
+<img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" height="48" />
+<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" height="48" />
+<img src="https://skillicons.dev/icons?i=grafana" title="Grafana" alt="Grafana" height="48" />
 
 **Editor, Build & Test**
 
-[![Editor](https://skillicons.dev/icons?i=vim,neovim,bash,git,linux,vite,jest)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=vim" title="Vim" alt="Vim" height="48" />
+<img src="https://skillicons.dev/icons?i=neovim" title="Neovim" alt="Neovim" height="48" />
+<img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" height="48" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48" />
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="48" />
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" height="48" />
+<img src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" height="48" />
 
 </div>
 
