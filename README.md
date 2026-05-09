@@ -44,10 +44,14 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 **Cloud & Infrastructure**
 
-[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,vercel,supabase,githubactions)](https://skillicons.dev)
+[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,cloudflare,vercel,supabase,githubactions)](https://skillicons.dev)
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=000000)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
+
+**Editor & Workflow**
+
+[![Editor](https://skillicons.dev/icons?i=vim,neovim,bash,git,linux)](https://skillicons.dev)
 
 </div>
 
@@ -97,6 +101,10 @@ OpenTelemetry span decorator for **NestJS**. Instrument methods with one line, g
 <br><br>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css,scss,sass,astro,c%23,mathematica,kotlin,dart,objective-c,ruby,php,perl,coffeescript&langs_count=8" height="180">
+
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
 
 <br><br>
@@ -113,6 +121,18 @@ OpenTelemetry span decorator for **NestJS**. Instrument methods with one line, g
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pawsos.xyz-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://pawsos.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t10ez)
+
+</div>
+
+---
+
+## 🧧 Support Me
+
+<div align="center">
+
+If anything here helped you out, throw me a tip via **pawsos.xyz** ✨
+
+[![Support via pawsos.xyz](https://img.shields.io/badge/Support-pawsos.xyz-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=000000)](https://pawsos.xyz)
 
 </div>
 
