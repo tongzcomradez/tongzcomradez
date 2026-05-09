@@ -81,7 +81,7 @@ OpenTelemetry span decorator for **NestJS**. Instrument methods with one line, g
 |--------|-------|
 | 🎮 **Gaming Backend** | Multi-service game platforms — bot engines, trading APIs, web consoles |
 | 🐾 **Product (pawsos.xyz)** | Next.js + Supabase + Vercel — full-stack serverless build |
-| 📦 **OSS Package** | `@hell-factory/trace-reaper` — OpenTelemetry span decorator for NestJS |
+| 📦 **npm Package** | `@hell-factory/trace-reaper` — OpenTelemetry span decorator for NestJS |
 | ☸️ **Cloud-Native Infra** | K8s clusters on DigitalOcean / AWS, Terraform + Ansible provisioning |
 | 🚀 **CI/CD & GitOps** | Jenkins + GitHub Actions pipelines, ArgoCD-driven cluster sync |
 | 🧱 **Local Dev Stacks** | Docker Compose stacks for Mongo / Redis / RabbitMQ parity |
