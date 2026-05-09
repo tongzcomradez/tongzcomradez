@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Tongz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+%26+Distributed+Systems;Cloud-Native+%7C+Kubernetes+%7C+GitOps;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://github.com/t10ez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Microservices+%26+Distributed+Systems;Cloud-Native+%7C+Kubernetes+%7C+GitOps;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://github.com/t10ez)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-Backend engineer building scalable, event-driven systems for the gaming industry. Comfortable across the stack — from NestJS services and message queues to Kubernetes clusters and Terraform-managed infrastructure.
+Software engineer building scalable, event-driven systems for the gaming industry. Comfortable across the stack — from NestJS services and message queues to Kubernetes clusters and Terraform-managed infrastructure.
 
 - 🏗️  Designing microservices with **NestJS, MongoDB, Redis, RabbitMQ, Kafka**
 - ☸️  Running workloads on **Kubernetes** with **GitOps** (ArgoCD)
