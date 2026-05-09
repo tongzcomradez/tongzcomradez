@@ -36,22 +36,23 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 **Backend & Languages**
 
-[![Backend Languages](https://skillicons.dev/icons?i=ts,nodejs,nestjs,rust)](https://skillicons.dev)
+[![Backend Languages](https://skillicons.dev/icons?i=ts,nodejs,nestjs,bun,elysia,rust)](https://skillicons.dev)
 
 **Data & Messaging**
 
 [![Data and Messaging](https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq)](https://skillicons.dev)
 
-**Cloud & Infrastructure**
+**Cloud, Infra & Observability**
 
-[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,cloudflare,vercel,supabase,githubactions)](https://skillicons.dev)
+[![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,nginx,terraform,ansible,jenkins,aws,cloudflare,vercel,supabase,githubactions,grafana)](https://skillicons.dev)
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=000000)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black&labelColor=000000)
 
-**Editor & Workflow**
+**Editor, Build & Test**
 
-[![Editor](https://skillicons.dev/icons?i=vim,neovim,bash,git,linux)](https://skillicons.dev)
+[![Editor](https://skillicons.dev/icons?i=vim,neovim,bash,git,linux,vite,jest)](https://skillicons.dev)
 
 </div>
 
@@ -96,20 +97,8 @@ OpenTelemetry span decorator for **NestJS**. Instrument methods with one line, g
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t10ez&theme=radical" width="100%">
-
-<br><br>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css,scss,sass,astro,c%23,mathematica,kotlin,dart,objective-c,ruby,php,perl,coffeescript&langs_count=8" height="180">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t10ez&theme=radical&utcOffset=7" height="180">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=t10ez&theme=radical&hide_border=true&background=0D1117">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&size_weight=1&count_weight=0&langs_count=8&hide=html,css,scss,sass,astro,c%23,mathematica,kotlin,dart,objective-c,ruby,php,perl,coffeescript&exclude_repo=mochaJs,react-firebase-authen,upload_to_s3,nightwatch_automated,clawer_data,express-es6,portfolio,intern-exercise,line-messaging-api,cut-video-and-snapshot-cover-image,react-boliplate,redux-persist-tut,apollo-gql-server-tut,teach-wife-write-react,apollo-tut,line-liff-v2,movider-low-credit-alert,is-even" height="180">
 
 </div>
 
