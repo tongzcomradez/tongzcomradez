@@ -40,15 +40,11 @@ Backend engineer building scalable, event-driven systems for the gaming industry
 
 **Data & Messaging**
 
-[![Data and Messaging](https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq)](https://skillicons.dev)
+[![Data and Messaging](https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq,kafka)](https://skillicons.dev)
 
 **Cloud, Infra & Observability**
 
 [![Cloud and Infra](https://skillicons.dev/icons?i=docker,kubernetes,nginx,terraform,ansible,jenkins,aws,cloudflare,vercel,supabase,githubactions,grafana)](https://skillicons.dev)
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=000000)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=000000)
-![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black&labelColor=000000)
 
 **Editor, Build & Test**
 
