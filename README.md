@@ -86,7 +86,6 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&size_weight=1&count_weight=0&langs_count=8&hide=html,css,scss,sass,astro,c%23,mathematica,kotlin,dart,objective-c,ruby,php,perl,coffeescript&exclude_repo=mochaJs,react-firebase-authen,upload_to_s3,nightwatch_automated,clawer_data,express-es6,portfolio,intern-exercise,line-messaging-api,cut-video-and-snapshot-cover-image,react-boliplate,redux-persist-tut,apollo-gql-server-tut,teach-wife-write-react,apollo-tut,line-liff-v2,movider-low-credit-alert,is-even" height="180" alt="Top Languages">
 
 </div>
 
