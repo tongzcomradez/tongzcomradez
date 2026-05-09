@@ -77,6 +77,7 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="48" />
 <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" height="48" />
 <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="Kafka" height="48" />
+<img src="https://skillicons.dev/icons?i=apollo" title="Apollo GraphQL" alt="Apollo GraphQL" height="48" />
 
 **Cloud, Infra & Observability**
 
@@ -102,6 +103,7 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="48" />
 <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" height="48" />
 <img src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" height="48" />
+<img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" alt="pnpm" height="48" />
 
 </div>
 
