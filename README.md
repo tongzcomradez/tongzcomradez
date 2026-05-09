@@ -34,7 +34,7 @@ Software engineer building scalable, event-driven systems for the gaming industr
 
 ### 🐾 [pawsos.xyz](https://pawsos.xyz)
 
-End-to-end personal product on a serverless stack.
+Lost-and-found platform for pets — people post missing or sighted animals so neighbours can help reunite them with their owners.
 
 - **Frontend & hosting:** Next.js on **Vercel**
 - **Backend & data:** **Supabase** (Postgres, Auth, Storage, Edge Functions)
@@ -120,15 +120,12 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 
 ---
 
-## 🤝 Connect & Support
+## 🤝 Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pawsos.xyz-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://pawsos.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t10ez)
-[![Support](https://img.shields.io/badge/Buy_me_a_coffee-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=000000)](https://pawsos.xyz)
-
-<sub>Found something useful here? A coffee at [pawsos.xyz](https://pawsos.xyz) keeps the lights on ✨</sub>
 
 </div>
 
