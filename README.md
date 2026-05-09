@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Tongz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+%26+Distributed+Systems;Cloud-Native+%7C+Kubernetes+%7C+GitOps;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://github.com/t10ez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Microservices+%26+Distributed+Systems;Cloud-Native+%7C+Kubernetes+%7C+GitOps;NestJS+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://github.com/t10ez)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-Backend engineer building scalable, event-driven systems for the gaming industry. Comfortable across the stack — from NestJS services and message queues to Kubernetes clusters and Terraform-managed infrastructure.
+Software engineer building scalable, event-driven systems for the gaming industry. Comfortable across the stack — from NestJS services and message queues to Kubernetes clusters and Terraform-managed infrastructure.
 
 - 🏗️  Designing microservices with **NestJS, MongoDB, Redis, RabbitMQ, Kafka**
 - ☸️  Running workloads on **Kubernetes** with **GitOps** (ArgoCD)
@@ -86,7 +86,6 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=t10ez&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t10ez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&size_weight=1&count_weight=0&langs_count=8&hide=html,css,scss,sass,astro,c%23,mathematica,kotlin,dart,objective-c,ruby,php,perl,coffeescript&exclude_repo=mochaJs,react-firebase-authen,upload_to_s3,nightwatch_automated,clawer_data,express-es6,portfolio,intern-exercise,line-messaging-api,cut-video-and-snapshot-cover-image,react-boliplate,redux-persist-tut,apollo-gql-server-tut,teach-wife-write-react,apollo-tut,line-liff-v2,movider-low-credit-alert,is-even" height="180" alt="Top Languages">
 
 </div>
 
