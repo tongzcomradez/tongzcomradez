@@ -66,6 +66,7 @@ OpenTelemetry span decorator for **NestJS** — instrument methods with one line
 <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="48" />
 <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" />
 <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" height="48" />
+<img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" height="48" />
 <img src="https://skillicons.dev/icons?i=bun" title="Bun" alt="Bun" height="48" />
 <img src="https://skillicons.dev/icons?i=elysia" title="Elysia" alt="Elysia" height="48" />
 <img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" height="48" />
